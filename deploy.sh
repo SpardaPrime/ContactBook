@@ -19,7 +19,7 @@ git commit -m 'deploy'
 
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:SpardaPrime/ContactBook.git master:gh-pages
-
+git push -f git@github.com:SpardaPrime/<REPO>.git master:gh-pages
+git push -f https://github.com/SpardaPrime/ContactBook.git master:gh-pages
 
 cd -
