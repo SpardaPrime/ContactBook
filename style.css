@@ -497,7 +497,7 @@ html, body {
   outline: none !important;
 }
 
-@media (min-width: 370px) and (max-width: 500px) {
+@media (min-width: 250px) and (max-width: 500px) {
   .add-contact-container {
     width: 100%;
   }
@@ -708,4 +708,4 @@ html, body {
   }
 }
 
-
+/*# sourceMappingURL=style.css.map */
